@@ -1,17 +1,1 @@
-hELLO
-12345
-
-
-hello
-123445
-
-
-
-hello
-1234
-
-hello
-12345566
-
-hello
-1
+First program to test.
