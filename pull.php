@@ -1,1 +1,1 @@
-<?php `sudo git pull git@github.com:VastEdge-GitHub/github_test.git`; ?>
+<?php `git pull`; ?>
