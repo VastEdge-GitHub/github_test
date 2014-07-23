@@ -1,4 +1,1 @@
-<?php 
-$output=shell_exec("/var/www/html/github_test/git pull 2>&1");
-echo $output;
-?>
+<?php `sudo git pull git@github.com:VastEdge-GitHub/github_test.git`; ?>
